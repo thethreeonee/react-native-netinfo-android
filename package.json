@@ -1,0 +1,22 @@
+{
+  "name": "react-native-netinfo-android",
+  "version": "1.0.0",
+  "description": "Get network information on android.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://MiincGu@github.com/MiincGu/react-native-netinfo-android.git"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "MiincGu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MiincGu/react-native-netinfo-android/issues"
+  },
+  "homepage": "https://github.com/MiincGu/react-native-netinfo-android#readme"
+}

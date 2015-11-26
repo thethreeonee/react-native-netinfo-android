@@ -2,7 +2,7 @@
   "name": "react-native-netinfo-android",
   "version": "1.0.0",
   "description": "Get network information on android.",
-  "main": "index.js",
+  "main": "NetInfoAndroid.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
